@@ -1,0 +1,30 @@
+Date: Sat, 29 Feb 2020 20:12:35 +0900
+From: test@test.lan
+To: Masahiko Inoue <minoue@cortex.com>
+Subject: =?ISO-2022-JP?B?GyRCJUYlOSVIGyhC?=
+Message-Id: <20200229201005.D30E.FD314C1C@test.lan>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------_5DAABE4800000000C1F8_MULTIPART_MIXED_"
+Content-Transfer-Encoding: 7bit
+
+--------_5DAABE4800000000C1F8_MULTIPART_MIXED_
+Content-Type: text/plain; charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+
+テストメールです。
+
+IP: 1.2.3.4
+IP: 5.6.7.8
+URL: https://www.google.co.jp/
+
+
+--------_5DAABE4800000000C1F8_MULTIPART_MIXED_
+Content-Type: application/octet-stream;
+ name="=?ISO-2022-JP?B?GyRCJUYlOSVIGyhCLmRhdA==?="
+Content-Disposition: attachment;
+ filename="=?ISO-2022-JP?B?GyRCJUYlOSVIGyhCLmRhdA==?="
+Content-Transfer-Encoding: base64
+
+5re75LuY44OV44Kh44Kk44Or
+--------_5DAABE4800000000C1F8_MULTIPART_MIXED_--
+

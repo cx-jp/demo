@@ -1,0 +1,323 @@
+{
+	"MINOUE-1234": {
+		"host": {
+			"local_ip": "10.1.2.145",
+			"platform": "Windows 10 x64",
+			"modules": [
+        {
+          "import": "edr-test-common-modules.json"
+        },
+        {
+          "file": {
+            "fullpath": "C:\\Windows\\WinSxS\\amd64_microsoft-windows-i..etexplorer-optional_31bf3856ad364e35_11.0.17763.771_none_511293db5d002e03\\iexplore.exe",
+            "filename": "iexplore.exe",
+            "MD5": "f640445694fd65dec07ca3a84f560534",
+            "SHA1": "5d5586e4273110d48f2cd8b19a91e8853de5e02c",
+            "SHA256": "28fd5f83c7a2ed53c284ba791f0668c309e287576744530b6e9fc4c228d4b33b",
+            "riskscore": 1
+          },
+					"network": {
+						"hostname": [
+							"google.co.jp"
+						],
+						"IP": [
+							"172.217.175.35"
+						]
+					}
+        }
+			]
+		},
+		"network": {
+			"hostname": [
+				"google.co.jp",
+				"www.google.co.jp",
+				"youtube.com",
+				"microsoft.com",
+				"update.microsoft.com",
+				"windowsupdate.microsoft.com"
+			],
+			"IP": [
+				"172.217.175.35",
+				"172.217.26.35",
+				"172.217.161.46",
+				"52.164.206.56",
+				"104.215.95.187",
+				"52.137.90.34",
+				"13.115.86.198",
+				"117.18.237.29",
+				"203.111.240.219",
+				"104.244.42.72",
+				"13.224.51.7"
+			]
+		}
+	},
+	"TYAMADA-1910": {
+		"host": {
+			"local_ip": "10.1.2.146",
+			"platform": "Windows 10 x64",
+			"modules": [
+				{
+					"file": {
+						"fullpath": "C:\\Users\\tyamada\\AppData\\Local\\Temp\\YAMADA TAROMR 27OCT NRT.pdf.exe",
+						"filename": "YAMADA TAROMR 27OCT NRT.pdf.exe",
+						"MD5": "6e5f8cfc40c5d75a59058fb6066ccc50",
+						"SHA1": "3f47e652ae55dbab0d47969d3a2a4900ea938275",
+						"SHA256": "a008765da6e64e1390c6f829857926c0c51d1c160c055a305b8b34088e227565",
+						"riskscore": 1
+					}
+				},
+				{
+					"file": {
+						"fullpath": "C:\\Windows\\explorer.exe",
+						"filename": "explorer.exe",
+						"MD5": "a6ab14af442fcfa8b9d885c671033f4f",
+						"SHA1": "d9b031bc219cd35891cc2e62186d4e92f152c915",
+						"SHA256": "15611e85ec0275dd37e1550bcd5005092414099da2c18edf7e0b2c04f26ca30c",
+						"riskscore": 1
+					},
+					"network": {
+						"hostname": [
+							"youtuhe.com"
+						],
+						"IP": [
+							"34.196.13.28"
+						]
+					}
+				}
+			]
+		},
+		"network": {
+			"hostname": [
+				"youtuhe.com",
+				"www.google.co.jp",
+				"youtube.com",
+				"microsoft.com",
+				"update.microsoft.com",
+				"windowsupdate.microsoft.com"
+			],
+			"IP": [
+				"34.196.13.28",
+				"172.217.26.35",
+				"172.217.161.46",
+				"52.164.206.56",
+				"104.215.95.187",
+				"52.137.90.34",
+				"13.115.86.198",
+				"117.18.237.29",
+				"203.111.240.219",
+				"104.244.42.72",
+				"13.224.51.7"
+			]
+		}
+	},
+	"YMARUOKA-1822": {
+		"host": {
+			"local_ip": "10.1.2.147",
+			"platform": "Windows 10 x64",
+			"modules": [
+				{
+					"file": {
+						"fullpath": "C:\\Users\\ymaruoka\\AppData\\Local\\Temp\\MARUOKA YUKOMS 27OCT NRT.pdf.exe",
+						"filename": "MARUOKA YUKOMS 27OCT NRT.pdf.exe",
+						"MD5": "6e5f8cfc40c5d75a59058fb6066ccc50",
+						"SHA1": "3f47e652ae55dbab0d47969d3a2a4900ea938275",
+						"SHA256": "a008765da6e64e1390c6f829857926c0c51d1c160c055a305b8b34088e227565",
+						"riskscore": 1
+					}
+				},
+				{
+					"file": {
+						"fullpath": "C:\\Windows\\explorer.exe",
+						"filename": "explorer.exe",
+						"MD5": "a6ab14af442fcfa8b9d885c671033f4f",
+						"SHA1": "d9b031bc219cd35891cc2e62186d4e92f152c915",
+						"SHA256": "15611e85ec0275dd37e1550bcd5005092414099da2c18edf7e0b2c04f26ca30c",
+						"riskscore": 1
+					},
+					"network": {
+						"hostname": [
+							"youtuhe.com"
+						],
+						"IP": [
+							"34.196.13.28"
+						]
+					}
+				}
+			]
+		},
+		"network": {
+			"hostname": [
+				"youtuhe.com",
+				"www.google.co.jp",
+				"youtube.com",
+				"microsoft.com",
+				"update.microsoft.com",
+				"windowsupdate.microsoft.com",
+				"www.livedoor.com"
+			],
+			"IP": [
+				"34.196.13.28",
+				"172.217.26.35",
+				"172.217.161.46",
+				"52.164.206.56",
+				"104.215.95.187",
+				"52.137.90.34",
+				"13.115.86.198",
+				"117.18.237.29",
+				"203.111.240.219",
+				"104.244.42.72",
+				"13.224.51.7",
+				"203.104.153.16"
+			]
+		}
+	},
+	"AKIDA-2850": {
+		"host": {
+			"local_ip": "10.1.2.148",
+			"platform": "Windows 10 x64",
+			"modules": [
+				{
+					"file": {
+						"fullpath": "C:\\Users\\akida\\AppData\\Local\\Temp\\KIDA AYUMIMS 27OCT NRT.pdf.exe",
+						"filename": "KIDA AYUMIMS 27OCT NRT.pdf.exe",
+						"MD5": "6e5f8cfc40c5d75a59058fb6066ccc50",
+						"SHA1": "3f47e652ae55dbab0d47969d3a2a4900ea938275",
+						"SHA256": "a008765da6e64e1390c6f829857926c0c51d1c160c055a305b8b34088e227565",
+						"riskscore": 1
+					}
+				},
+				{
+					"file": {
+						"fullpath": "C:\\Windows\\explorer.exe",
+						"filename": "explorer.exe",
+						"MD5": "a6ab14af442fcfa8b9d885c671033f4f",
+						"SHA1": "d9b031bc219cd35891cc2e62186d4e92f152c915",
+						"SHA256": "15611e85ec0275dd37e1550bcd5005092414099da2c18edf7e0b2c04f26ca30c",
+						"riskscore": 1
+					},
+					"network": {
+						"hostname": [
+							"youtuhe.com"
+						],
+						"IP": [
+							"34.196.13.28"
+						]
+					}
+				}
+			]
+		},
+		"network": {
+			"hostname": [
+				"youtuhe.com",
+				"www.google.co.jp",
+				"youtube.com",
+				"microsoft.com",
+				"update.microsoft.com",
+				"windowsupdate.microsoft.com",
+				"www.livedoor.com"
+			],
+			"IP": [
+				"34.196.13.28",
+				"172.217.26.35",
+				"172.217.161.46",
+				"52.164.206.56",
+				"104.215.95.187",
+				"52.137.90.34",
+				"13.115.86.198",
+				"117.18.237.29",
+				"203.111.240.219",
+				"104.244.42.72",
+				"13.224.51.7",
+				"203.104.153.16"
+			]
+		}
+	},
+	"KSHISHIDO-6092": {
+		"host": {
+			"local_ip": "10.1.2.149",
+			"platform": "Windows 10 x64",
+			"modules": [
+				{
+					"file": {
+						"fullpath": "C:\\Users\\kshishido\\AppData\\Local\\Temp\\curl.exe",
+						"filename": "curl.exe",
+						"MD5": "1e02a122fe09272058fc1ef0b1b6265e",
+						"SHA1": "4b0223110d11a6613fd863e9f9b10c83ef1d7b71",
+						"SHA256": "f835e15aceb0e995ead000641019aec2162f74d45c5732cee9e3c77d13fa038a",
+						"riskscore": 0
+					},
+					"network": {
+						"hostname": [
+							"api.line.me"
+						],
+						"IP": [
+							"203.104.153.64"
+						]
+					}
+				}
+			]
+		},
+		"network": {
+			"hostname": [
+				"www.google.co.jp",
+				"youtube.com",
+				"microsoft.com",
+				"update.microsoft.com",
+				"windowsupdate.microsoft.com",
+				"www.livedoor.com",
+				"api.line.me"
+			],
+			"IP": [
+				"52.137.90.34",
+				"13.115.86.198",
+				"117.18.237.29",
+				"203.104.153.64"
+			]
+		}
+	},
+	"MFUSE-8721": {
+		"host": {
+			"local_ip": "10.1.2.150",
+			"platform": "Windows 10 x64",
+			"modules": [
+				{
+					"file": {
+						"fullpath": "C:\\Users\\mfuse\\AppData\\Local\\Temp\\curl.exe",
+						"filename": "curl.exe",
+						"MD5": "1e02a122fe09272058fc1ef0b1b6265e",
+						"SHA1": "4b0223110d11a6613fd863e9f9b10c83ef1d7b71",
+						"SHA256": "f835e15aceb0e995ead000641019aec2162f74d45c5732cee9e3c77d13fa038a",
+						"riskscore": 0
+					},
+					"network": {
+						"hostname": [
+							"api.line.me"
+						],
+						"IP": [
+							"203.104.153.64"
+						]
+					}
+				}
+			]
+		},
+		"network": {
+			"hostname": [
+				"www.google.co.jp",
+				"youtube.com",
+				"microsoft.com",
+				"update.microsoft.com",
+				"windowsupdate.microsoft.com",
+				"www.livedoor.com",
+				"www.mozilla.org",
+				"api.line.me"
+			],
+			"IP": [
+				"52.137.90.34",
+				"13.115.86.198",
+				"117.18.237.29",
+				"104.16.142.228",
+				"203.104.153.64"
+			]
+		}
+	}
+}
