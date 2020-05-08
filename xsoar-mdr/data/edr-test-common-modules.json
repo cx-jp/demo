@@ -1,0 +1,342 @@
+[
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\bfsvc.exe",
+      "filename": "bfsvc.exe",
+      "MD5": "49d0ad393ae0b1ee7f3a3dd81b54bfbf",
+      "SHA1": "9765249443d6f1d8b846338a66ceff751a7007ff",
+      "SHA256": "d271499cc7039391130509e21f8e1ba7a9e8a49fef71528b94a0448224dfc186",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\explorer.exe",
+      "filename": "explorer.exe",
+      "MD5": "213a9e351c5c6c0d49aae1d8473e4724",
+      "SHA1": "80c8cffcfb38c95f4b04513b501f12ab960d7dd6",
+      "SHA256": "bf16af566661185543a1b761cc0f3475fc1bcece37255ecbf9ca68d0b3fe1ec7",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\HelpPane.exe",
+      "filename": "HelpPane.exe",
+      "MD5": "296935230da42f30d4b4c2d396362156",
+      "SHA1": "86dd98153a553234bd21156dac526abe48694e5d",
+      "SHA256": "12e0a0401ec5f8120317ec2029b734c582f82bf0a78588b897e1f2e27a3cdac9",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\hh.exe",
+      "filename": "hh.exe",
+      "MD5": "1cecee8d02a8e9b19d3a1a65c7a2b249",
+      "SHA1": "4b1e2f8efbecb677080dbb26876311d9e06c5020",
+      "SHA256": "8ab2f9a4ca87575f03f554aeed6c5e0d7692fa9b5d420008a1521f7f7bd2d0a5",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\notepad.exe",
+      "filename": "notepad.exe",
+      "MD5": "0e61079d3283687d2e279272966ae99d",
+      "SHA1": "b6d237154f2e528f0b503b58b025862d66b02b73",
+      "SHA256": "a92056d772260b39a876d01552496b2f8b4610a0b1e084952fe1176784e2ce77",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\py.exe",
+      "filename": "py.exe",
+      "MD5": "ea214750a533335277fddf9a7d661961",
+      "SHA1": "9ebfa4d904cc42e2c21a05017936462f4abb4ce1",
+      "SHA256": "660002e5164997df4170f565a14f8d6e0109c65cfa40ba44f99a57e580c31c9d",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\pyw.exe",
+      "filename": "pyw.exe",
+      "MD5": "7fac270004658a4f1cc1dda6c7dc6f7d",
+      "SHA1": "8cb3d67267e3ec859487441b9a3580670905b15b",
+      "SHA256": "df092a96bcbe7f6d33e2cb270edbab3b2cb82e9921b41697b9c41ed6294387a7",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\regedit.exe",
+      "filename": "regedit.exe",
+      "MD5": "a3668018735b59050ad123a5a8cdc184",
+      "SHA1": "1d72449f04f2287a31a91024fc3e3ada33322e72",
+      "SHA256": "ff3b56204f0cea172aefb178e05a32c3c3c0be93f29dd4c2df46a6de07bb5152",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\splwow64.exe",
+      "filename": "splwow64.exe",
+      "MD5": "af0ab44828a9a120de50814e5806c9dd",
+      "SHA1": "3554a215dfd3ba0c4e6760a1336b451d6b80d897",
+      "SHA256": "78d7d39995569dfed53e480cf7254ef39e1ff505b7855e3f84a2db00bb62edc4",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\winhlp32.exe",
+      "filename": "winhlp32.exe",
+      "MD5": "351fdce5b7cde5009c768ffda64b5e57",
+      "SHA1": "1fab1e89a86956a2281ee8364774be307d81f689",
+      "SHA256": "0ae37c1d7fc84e5e956874458508205f4dad68d933be6b801cff2e42475664b5",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\write.exe",
+      "filename": "write.exe",
+      "MD5": "10f2bc4209233ab34bda602967d0f798",
+      "SHA1": "923be1a95641ec2be6f8f7e2cff51e40c2655d65",
+      "SHA256": "664256fde0e3a7c39801d91dd20204250638048e0e3f12c5891a84ffe283680a",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\HP_lt4220.dll",
+      "filename": "HP_lt4220.dll",
+      "MD5": "525899fc10756d06d4367d9702bf3458",
+      "SHA1": "5b70befc95723dc01490546959ac722473b1458b",
+      "SHA256": "b234bfb82c35a6f2bff0fa63e6fe0528e6b8134050948bb13c746394f3f9fc28",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\pyshellext.amd64.dll",
+      "filename": "pyshellext.amd64.dll",
+      "MD5": "4721508e125dc0d1035aa5ba0f8b3e18",
+      "SHA1": "196a0523c85a524cf910c5db1ff6d38abe41db98",
+      "SHA256": "0d8e0706425d3e6c844b1ea615d7c8c65254facc6f977355caef2eb705db1e04",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\twain_32.dll",
+      "filename": "twain_32.dll",
+      "MD5": "4b8ed4ef819dc87a2dc108ef60504fe9",
+      "SHA1": "6b0db1b5279b75dbc76cc6cca149c00df18527a4",
+      "SHA256": "fd293c4a8b44baee2efcb5fd19080620eca07d3ff3f4a693701f354951a68f40",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\apppatch\\AcRes.dll",
+      "filename": "AcRes.dll",
+      "MD5": "9cb9c2d9cb2f8161de1b679cdea0c210",
+      "SHA1": "0e63921b4cb30f5ffee58d8a130a76f0e9175c10",
+      "SHA256": "6abe8659827cafa8dc80166ca6c11623c7fe733432622ceb3911263d6c04b7ee",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\apppatch\\en-US\\AcRes.dll.mui",
+      "filename": "AcRes.dll.mui",
+      "MD5": "16df6dbc5a06f3e146c14b7407d241cd",
+      "SHA1": "0dadd0869d5ba96ab8969c900b1edeebd2f1136d",
+      "SHA256": "d8828a70b338556379da85f4fbad7a9f81b5af43115ca0f0279b0b3563ce5e24",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\apppatch\\ja-JP\\AcRes.dll.mui",
+      "filename": "AcRes.dll.mui",
+      "MD5": "c699b65e237f9771ab4ca176f477c923",
+      "SHA1": "9f5ae8a319e384e87a6cf6cf8689aff32d69d240",
+      "SHA256": "a22bf2ebe0790e5065916021dd8445bfb1db71da9e384268e1e4f41f78914052",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\CustomMarshalers\\2.0.0.0__b03f5f7f11d50a3a\\CustomMarshalers.dll",
+      "filename": "CustomMarshalers.dll",
+      "MD5": "5532ee884b7da50422f40b9ffbac6d73",
+      "SHA1": "2ba9aa757edc488b995192e74e93ee3721291ff8",
+      "SHA256": "b978d354533a6e6d355d591039503609e1d25f45fdd283fdb32e20a015618a9c",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\ISymWrapper\\2.0.0.0__b03f5f7f11d50a3a\\ISymWrapper.dll",
+      "filename": "ISymWrapper.dll",
+      "MD5": "201749b9b674a33a6198c03833afd4f9",
+      "SHA1": "57e5569ed42a3bd1e8637e80027b9adab7ba237a",
+      "SHA256": "76fc7d727a6c7f226e064656c8cc5a3545033505b47d29d8f855312db60a0493",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\Microsoft.Ink\\6.1.0.0__31bf3856ad364e35\\Microsoft.Ink.dll",
+      "filename": "Microsoft.Ink.dll",
+      "MD5": "84b7f5cc10879b44c58be39fde6fa648",
+      "SHA1": "28724b7e099e34c74aff05be57d87f0eb59f141e",
+      "SHA256": "bed11595f3c65d7acf4daa9cdd10d7e24dfec02b94f5bb7fae52c36bac8ae410",
+      "riskscore": 1
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\Microsoft.Interop.Security.AzRoles\\2.0.0.0__31bf3856ad364e35\\Microsoft.Interop.Security.AzRoles.dll",
+      "filename": "Microsoft.Interop.Security.AzRoles.dll",
+      "MD5": "a2316908798f53fe55e4e1d4c001dca0",
+      "SHA1": "8b7922732ca5a8f87c95ef5e55de76daab4c61c2",
+      "SHA256": "f6c17b9cffef56daa59a55d9666e3eae21ea9426359dccf8e4585f26b8c40774",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\Microsoft.Transactions.Bridge.Dtc\\3.0.0.0__b03f5f7f11d50a3a\\Microsoft.Transactions.Bridge.Dtc.dll",
+      "filename": "Microsoft.Transactions.Bridge.Dtc.dll",
+      "MD5": "43dcb6e0ea49330d3e9f13b326923444",
+      "SHA1": "71c10d8f2741efcdf4f40db77f410780cf008d51",
+      "SHA256": "219cf9106bb80c188617d4eee8af9809221b9584a62fdb296aa495ab6b0e37c2",
+      "riskscore": 1
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\MSBuild\\3.5.0.0__b03f5f7f11d50a3a\\MSBuild.exe",
+      "filename": "MSBuild.exe",
+      "MD5": "464530b4f4ca3f67008bd693efe15b10",
+      "SHA1": "73d1388b3ac8730f14787ef75f0616cb93ebbf09",
+      "SHA256": "070e4ea24f303c0722a93104d4b58fcdd52bf156227ec8d615b30e86680969c1",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\MSBuild\\3.5.0.0__b03f5f7f11d50a3a\\msbuild.exe.config",
+      "filename": "msbuild.exe.config",
+      "MD5": "1ea3e30080c0e256c2ef0c621e91c345",
+      "SHA1": "d1ec8533256297b7dc7e52bbde1e6f7d7ef815af",
+      "SHA256": "f67fac21ce7bf5cfb549f6db17517b341343a54f74e8573247bd2c07e9c24603",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\mscorlib\\2.0.0.0__b77a5c561934e089\\mscorlib.dll",
+      "filename": "mscorlib.dll",
+      "MD5": "cda996694c7aefcf6e10b508b61f98bf",
+      "SHA1": "f2532c76ba517d548af847aec4c22d81e29e4667",
+      "SHA256": "f928ac7beafe434b0736e477c301e837c811dffb1fa85320a84576bcec2463f9",
+      "riskscore": 1
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\PresentationCore\\3.0.0.0__31bf3856ad364e35\\PresentationFontCache.exe.config",
+      "filename": "PresentationFontCache.exe.config",
+      "MD5": "c0856ec51c8c75b8fdf02c1bbcfe7b93",
+      "SHA1": "aee16954327b481354eb6ea80e2b537577b86757",
+      "SHA256": "d5362778207947b5804894dd928fbc5ffc663715337e23bbc5ea14740581183f",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\PresentationCore\\3.0.0.0__31bf3856ad364e35\\PresentationCore.dll",
+      "filename": "PresentationCore.dll",
+      "MD5": "344abb194a20a5a3e02a06facead7c25",
+      "SHA1": "e7f854b3e0c179ade176f095adadc8d3e0c10714",
+      "SHA256": "ee9570e5d23f596c68b36a6fdaacf55f5077976656c8518ea2a73a4038cd1040",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\PresentationCore\\3.0.0.0__31bf3856ad364e35\\wpfgfx_v0300.dll",
+      "filename": "wpfgfx_v0300.dll",
+      "MD5": "89b79a974528d60e22ce18a444d47e86",
+      "SHA1": "4d88439b637685958d98bff016b5c529527fc76b",
+      "SHA256": "321796374863f976a644135a27d98005987e51ab69ba8165b2f5ce825cf015b5",
+      "riskscore": 1
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\srmlib\\1.0.0.0__31bf3856ad364e35\\srmlib.dll",
+      "filename": "srmlib.dll",
+      "MD5": "8cd186bdff5b0accbcbfcac51b71ce22",
+      "SHA1": "0e9fce97971ad7b18809d2e21fd7bc4dca3fac36",
+      "SHA256": "755c4dfee2098f8a73e357da50b3794c308728d9715a8d2a5f5ed1d3a0bd74e3",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\System.Data\\2.0.0.0__b77a5c561934e089\\System.Data.dll",
+      "filename": "System.Data.dll",
+      "MD5": "b94275be7731bb45412f39ea84fad166",
+      "SHA1": "5fc067573e16bc44fbd66d6e7429ae3c5d366c4c",
+      "SHA256": "ae7ba5227d24ab3aea67b438805c4a84d21fd771f7d84fd8e883814de818ed21",
+      "riskscore": 2
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\System.Data.OracleClient\\2.0.0.0__b77a5c561934e089\\System.Data.OracleClient.dll",
+      "filename": "System.Data.OracleClient.dll",
+      "MD5": "688913dbac85d01a08f6bb199a46c9c3",
+      "SHA1": "fd3e6eaf5c60d0f414ad4662550057b059d82f9b",
+      "SHA256": "7eb7c7190f5385a1df1604b0c4c6a3fcccae193bcee7e2965f925bb88a2563f2",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\System.EnterpriseServices\\2.0.0.0__b03f5f7f11d50a3a\\System.EnterpriseServices.dll",
+      "filename": "System.EnterpriseServices.dll",
+      "MD5": "fa325d083b2bf822ac1660d4af494f87",
+      "SHA1": "1c4a35e52462ac7b1fa4ecd34ab00fb79d50c3a3",
+      "SHA256": "0892d64607852ed9d4f892a248af076c680d6c33e163ef5a96369feeaf0e84b1",
+      "riskscore": 0
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\System.EnterpriseServices\\2.0.0.0__b03f5f7f11d50a3a\\System.EnterpriseServices.Wrapper.dll",
+      "filename": "System.EnterpriseServices.Wrapper.dll",
+      "MD5": "53c334c86579f936f9ba668f1cdddf86",
+      "SHA1": "60f6b9a26d3418df9646ef4517ec814bf8976fe8",
+      "SHA256": "4f20c06fd22c349b162a70b82c29637e9a22c977f2a6979bfe62ed52db746ee2",
+      "riskscore": 2
+    }
+  },
+  {
+    "file": {
+      "fullpath": "C:\\Windows\\assembly\\GAC_32\\System.Printing\\3.0.0.0__31bf3856ad364e35\\System.Printing.dll",
+      "filename": "System.Printing.dll",
+      "MD5": "1888f674d003a06f0b1eec057200e482",
+      "SHA1": "78c724b19c3472d477e20db6b0d9d43e65573dfc",
+      "SHA256": "6af12e85a44cba8469a654f32d5aef4454e9e13f534791e3530479a840bf16b0",
+      "riskscore": 0
+    }
+  }
+]

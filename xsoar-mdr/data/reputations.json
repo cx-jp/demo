@@ -1,0 +1,521 @@
+[
+  {
+    "Description": "Unit42.ProcessInjection, Unit42.UPXPacked",
+    "Indicator": "cb7e2e8c1156efcb8624fa5f472a36bf",
+    "Score": 3,
+    "Type": "hash",
+    "Vendor": "PAN Autofocus"
+  },
+  {
+    "Description": "Unit42.ProcessInjection, Unit42.UPXPacked",
+    "Indicator": "53f2dca40130f22d40afcdd91dcbe00bf5c5dd29",
+    "Score": 3,
+    "Type": "hash",
+    "Vendor": "PAN Autofocus"
+  },
+  {
+    "Description": "Unit42.ProcessInjection, Unit42.UPXPacked",
+    "Indicator": "f2db5c6ef2144e0ca3a84def15e95ff20c56fabf0a79703b352e209fe3d60102",
+    "Score": 3,
+    "Type": "hash",
+    "Vendor": "PAN Autofocus"
+  },
+  {
+    "Indicator": "53f2dca40130f22d40afcdd91dcbe00bf5c5dd29",
+    "Score": 3,
+    "Type": "file",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "f2db5c6ef2144e0ca3a84def15e95ff20c56fabf0a79703b352e209fe3d60102",
+    "Score": 3,
+    "Type": "file",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "f2db5c6ef2144e0ca3a84def15e95ff20c56fabf0a79703b352e209fe3d60102",
+    "Score": 3,
+    "Type": "hash",
+    "Vendor": "WildFire"
+  },
+  {
+    "Indicator": "f2db5c6ef2144e0ca3a84def15e95ff20c56fabf0a79703b352e209fe3d60102",
+    "Score": 3,
+    "Type": "file",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "cb7e2e8c1156efcb8624fa5f472a36bf",
+    "Score": 3,
+    "Type": "hash",
+    "Vendor": "WildFire"
+  },
+  {
+    "Indicator": "cb7e2e8c1156efcb8624fa5f472a36bf",
+    "Score": 3,
+    "Type": "file",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "iatatravelcenter.com",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "iatatravelcenter.com",
+    "Score": 0,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "centralairways.com",
+    "Score": 0,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "centralairways.com",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "cathayairways.com",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "cathayairways.com",
+    "Score": 2,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "imf.org",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "imf.org",
+    "Score": 2,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "www.centralairways.com",
+    "Score": 0,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "youtuhe.com",
+    "Score": 2,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "www.centralairways.com",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "www.cathayairways.com",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "www.cathayairways.com",
+    "Score": 0,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "www.iatatravelcenter.com",
+    "Score": 0,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "www.iatatravelcenter.com",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "www.imf.org",
+    "Score": 0,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "www.imf.org",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "amadeus.com",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "amadeus.com",
+    "Score": 0,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "cortex.com",
+    "Score": 2,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "cortex.com",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "zaq.ne.jp",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "zaq.ne.jp",
+    "Score": 0,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "imx41.esk.m4.zaq.ne.jp",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "imx41.esk.m4.zaq.ne.jp",
+    "Score": 0,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "tds.amadeus.com",
+    "Score": 1,
+    "Type": "domain",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "tds.amadeus.com",
+    "Score": 0,
+    "Type": "domain",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "82.150.225.79",
+    "Score": 2,
+    "Type": "ip",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "82.150.225.79",
+    "Score": 1,
+    "Type": "ip",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "220.152.48.139",
+    "Score": 1,
+    "Type": "ip",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "220.152.48.139",
+    "Score": 0,
+    "Type": "ip",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "82.150.225.129",
+    "Score": 0,
+    "Type": "ip",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "82.150.225.129",
+    "Score": 1,
+    "Type": "ip",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "34.196.13.28",
+    "Score": 1,
+    "Type": "ip",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "34.196.13.28",
+    "Score": 2,
+    "Type": "ip",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/check-in-baggage/most-significant-carrier-msc-for-multi-carrier-journey.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=BAGGAGE-RULES-FOR-MULTICARRIER-JOURNEY\u0026utm_content=TRAVEL-INFORMARTION\u0026utm_term=TERMS-AND-COND",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/check-in-baggage/most-significant-carrier-msc-for-multi-carrier-journey.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=BAGGAGE-RULES-FOR-MULTICARRIER-JOURNEY\u0026utm_content=TRAVEL-INFORMARTION\u0026utm_term=TERMS-AND-COND",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/flygreener",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/flygreener",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/content/dam/ca/legal-and-privacy/general-conditions-of-carriage-for-passengers-baggage-en.pdf",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/content/dam/ca/legal-and-privacy/general-conditions-of-carriage-for-passengers-baggage-en.pdf",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/content/dam/ca/legal-and-privacy/canada/CTA-intl-tariff-web.pdf",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/content/dam/ca/legal-and-privacy/canada/CTA-intl-tariff-web.pdf",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.cathayairways.com/ca/en_HK/travel-information/baggage/check-in-baggage/most-significant-carrier-msc-for-multi-carrier-journey.html",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.cathayairways.com/ca/en_HK/travel-information/baggage/check-in-baggage/most-significant-carrier-msc-for-multi-carrier-journey.html",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/controlled-and-banned-items/banned-items.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=PROHIBITED-ITEMS\u0026utm_content=TRAVEL-INFORMATION\u0026utm_term=TERMS-AND-COND",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/controlled-and-banned-items/banned-items.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=PROHIBITED-ITEMS\u0026utm_content=TRAVEL-INFORMATION\u0026utm_term=TERMS-AND-COND",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/controlled-and-banned-items/banned-items.html",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/controlled-and-banned-items/banned-items.html",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/controlled-and-banned-items/lithium-batteries.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=BATTERIES\u0026utm_content=TRAVEL-INFORMATION\u0026utm_term=TERMS-AND-COND",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/controlled-and-banned-items/lithium-batteries.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=BATTERIES\u0026utm_content=TRAVEL-INFORMATION\u0026utm_term=TERMS-AND-COND",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/travel-preparation/travel-and-health/before-you-fly.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=FITNESS-TO-TRAVEL\u0026utm_content=TRAVEL-INFORMATION\u0026utm_term=TERMS-AND-COND",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/travel-preparation/travel-and-health/before-you-fly.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=FITNESS-TO-TRAVEL\u0026utm_content=TRAVEL-INFORMATION\u0026utm_term=TERMS-AND-COND",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/about-us/contact-us/worldwide-offices.html",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/about-us/contact-us/worldwide-offices.html",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/about-us/contact-us/worldwide-offices.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=WORLDWIDE-OFFICES\u0026utm_content=ABOUT-US\u0026utm_term=TERMS-AND-COND",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/about-us/contact-us/worldwide-offices.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=WORLDWIDE-OFFICES\u0026utm_content=ABOUT-US\u0026utm_term=TERMS-AND-COND",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/content/dam/ca/legal-and-privacy/canada/transborder-tariff/CTA-transborder-tariff-web.pdf",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/content/dam/ca/legal-and-privacy/canada/transborder-tariff/CTA-transborder-tariff-web.pdf",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/extra-baggage-charges.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=EXTRA-BAGGAGE-CHARGES\u0026utm_content=TRAVEL-INFORMARTION\u0026utm_term=TERMS-AND-COND",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/extra-baggage-charges.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=EXTRA-BAGGAGE-CHARGES\u0026utm_content=TRAVEL-INFORMARTION\u0026utm_term=TERMS-AND-COND",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/extra-baggage-charges.html",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/extra-baggage-charges.html",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/controlled-and-banned-items/lithium-batteries.html",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/baggage/controlled-and-banned-items/lithium-batteries.html",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/travel-preparation/travel-and-health/before-you-fly.html",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/travel-preparation/travel-and-health/before-you-fly.html",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.imf.org/external/np/fin/data/rms_five.aspx",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.imf.org/external/np/fin/data/rms_five.aspx",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/flygreener?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=FLY-GREENER\u0026utm_content=ABOUT-US\u0026utm_term=TERMS-AND-COND",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/flygreener?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=FLY-GREENER\u0026utm_content=ABOUT-US\u0026utm_term=TERMS-AND-COND",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/help-for-passengers/travelling-with-children/safety-seats-and-devices/car-safety-seat.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=CAR-SAFETY-SEAT\u0026utm_content=TRAVEL-INFORMARTION\u0026utm_term=TERMS-AND-COND",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/help-for-passengers/travelling-with-children/safety-seats-and-devices/car-safety-seat.html?utm_channel=EDM\u0026utm_source=CA_SERVICES\u0026utm_medium=IBE-ETKT\u0026utm_campaign=CAR-SAFETY-SEAT\u0026utm_content=TRAVEL-INFORMARTION\u0026utm_term=TERMS-AND-COND",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/help-for-passengers/travelling-with-children/safety-seats-and-devices/car-safety-seat.html",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  },
+  {
+    "Indicator": "http://www.centralairways.com/ca/en_HK/travel-information/help-for-passengers/travelling-with-children/safety-seats-and-devices/car-safety-seat.html",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.iatatravelcenter.com/privacy",
+    "Score": 0,
+    "Type": "url",
+    "Vendor": "Recorded Future"
+  },
+  {
+    "Indicator": "http://www.iatatravelcenter.com/privacy",
+    "Score": 1,
+    "Type": "url",
+    "Vendor": "AutoFocus V2"
+  }
+]
