@@ -1,11 +1,11 @@
-Return-Path: <wakamatsu@paloaltonetworks.com>
+Return-Path: <wakamatsu@cortex.com>
 Received: from imx12.esk.m4.zaq.ne.jp ([220.152.48.147] [220.152.48.147])
  by imx12.esk.m4.zaq.ne.jp
  with ESMTP id <20190919122042184.UNAP.11290.imx12.esk.m4.zaq.ne.jp@imx12.esk.m4.zaq.ne.jp> for <kshishido@cortex.com>;
  Thu, 19 Sep 2019 21:20:42 +0900
-Received-SPF: Pass (mgw31.esk.m4.zaq.ne.jp: domain of wakamatsu@paloaltonetworks.com designates 67.231.156.123 as permitted sender) identity=pra; client-ip=67.231.156.123; receiver=mgw31.esk.m4.zaq.ne.jp; envelope-from="wakamatsu@paloaltonetworks.com"; x-sender="wakamatsu@paloaltonetworks.com"; x-conformance=sidf_strict; x-record-type="v=spf1"
-Received-SPF: Pass (mgw31.esk.m4.zaq.ne.jp: domain of wakamatsu@paloaltonetworks.com designates 67.231.156.123 as permitted sender) identity=mailfrom; client-ip=67.231.156.123; receiver=mgw31.esk.m4.zaq.ne.jp; envelope-from="wakamatsu@paloaltonetworks.com"; x-sender="wakamatsu@paloaltonetworks.com"; x-conformance=sidf_strict; x-record-type="v=spf1"
-Authentication-Results: mgw31.esk.m4.zaq.ne.jp; spf=Pass smtp.pra=wakamatsu@paloaltonetworks.com; spf=Pass smtp.mailfrom=wakamatsu@paloaltonetworks.com; dkim=pass (signature verified) header.i=@paloaltonetworks.com
+Received-SPF: Pass (mgw31.esk.m4.zaq.ne.jp: domain of wakamatsu@cortex.com designates 67.231.156.123 as permitted sender) identity=pra; client-ip=67.231.156.123; receiver=mgw31.esk.m4.zaq.ne.jp; envelope-from="wakamatsu@cortex.com"; x-sender="wakamatsu@cortex.com"; x-conformance=sidf_strict; x-record-type="v=spf1"
+Received-SPF: Pass (mgw31.esk.m4.zaq.ne.jp: domain of wakamatsu@cortex.com designates 67.231.156.123 as permitted sender) identity=mailfrom; client-ip=67.231.156.123; receiver=mgw31.esk.m4.zaq.ne.jp; envelope-from="wakamatsu@cortex.com"; x-sender="wakamatsu@cortex.com"; x-conformance=sidf_strict; x-record-type="v=spf1"
+Authentication-Results: mgw31.esk.m4.zaq.ne.jp; spf=Pass smtp.pra=wakamatsu@cortex.com; spf=Pass smtp.mailfrom=wakamatsu@cortex.com; dkim=pass (signature verified) header.i=@cortex.com
 Received: from mx0b-00169c01.pphosted.com ([67.231.156.123])
  by mgw31.esk.m4.zaq.ne.jp
  with ESMTP;
@@ -14,7 +14,7 @@ Received: from pps.filterd (m0048189.ppops.net [127.0.0.1])
  by mx0b-00169c01.pphosted.com (8.16.0.42/8.16.0.42)
  with SMTP id x8JC7ou9031445 for <kshishido@cortex.com>;
  Thu, 19 Sep 2019 05:20:36 -0700
-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=paloaltonetworks.com; h=mime-version : from : date : message-id : subject : to : content-type; s=PPS12012017; bh=lgw3ZhH/V6HDelj/laYn8QeHaIkl31E4ePSqwubsTnU=; b=F541mFexNDzf1wvgutrh+vY33HDZ2WnCdSqh/gNm0aUsRxJZ//YmvRBlc1cM9ODlCRxP sWJcqgaA1DCN1Jr/ftkHr1WWg8HoKxGNGIDhwPyBflJOeQZNzuL1mDtp2HI9x8YZR9HC f3sVlOL7Zr/q9sSTFTPA+jFpWK8RQqnbh8f3+xJTtNL6dqtu1lP+16Efx1658VO9Kq/7 iiNRQVCjOlXMeiXKvG3gIWYq9CY8GNxinc15nRVWppvtooorKzdZZwFhRC51XwVMNybW VKOSFQRkMwPz8KfDYiTt/uLyL2EuIybQ2CYYpWJGzXctjDZz6cCpRVmUEysnsRVPs+rO rA== 
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=cortex.com; h=mime-version : from : date : message-id : subject : to : content-type; s=PPS12012017; bh=lgw3ZhH/V6HDelj/laYn8QeHaIkl31E4ePSqwubsTnU=; b=F541mFexNDzf1wvgutrh+vY33HDZ2WnCdSqh/gNm0aUsRxJZ//YmvRBlc1cM9ODlCRxP sWJcqgaA1DCN1Jr/ftkHr1WWg8HoKxGNGIDhwPyBflJOeQZNzuL1mDtp2HI9x8YZR9HC f3sVlOL7Zr/q9sSTFTPA+jFpWK8RQqnbh8f3+xJTtNL6dqtu1lP+16Efx1658VO9Kq/7 iiNRQVCjOlXMeiXKvG3gIWYq9CY8GNxinc15nRVWppvtooorKzdZZwFhRC51XwVMNybW VKOSFQRkMwPz8KfDYiTt/uLyL2EuIybQ2CYYpWJGzXctjDZz6cCpRVmUEysnsRVPs+rO rA== 
 Received: from mail-qt1-f198.google.com (mail-qt1-f198.google.com [209.85.160.198])
  by mx0b-00169c01.pphosted.com
  with ESMTP id 2v3vcaab4y-1 (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128 verify=NOT) for <kshishido@cortex.com>;
@@ -23,17 +23,17 @@ Received:
  by mail-qt1-f198.google.com
  with SMTP id m6so3619145qtk.23 for <kshishido@cortex.com>;
  Thu, 19 Sep 2019 05:20:35 -0700 (PDT)
-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=paloaltonetworks-com.20150623.gappssmtp.com; s=20150623; h=mime-version:from:date:message-id:subject:to; bh=lgw3ZhH/V6HDelj/laYn8QeHaIkl31E4ePSqwubsTnU=; b=R7l3jOR9D2sKMSeTzN8J3rimzrEG2yVjdyFGHN//zzaqJE8vbncOVJGZaqqTtW1tky bc8o7xC72myIIqjWJxJeCB6dtwjrPl/5ghrWUgU329xCbVdcGa4vTNZNNzUAJGEvrQ3i 1adXqQrPFa16GsweiWU/R1XF1ppqJ1vALhwwGDcek+3jKkHO/j4vjgi2ueWmnI9Jt87G ZCVOcN3FqyJfBHdAMgEf403edBn57Z8L0FOmVlM5l5/l93L05vPAFM0fdnteXsqJULew a+Id+gZxYjXtd4f0yTj5f3FgaYvyoL/l2CaCohfahguF+hoSWMCqWB7CGtHVC01uapyw uRQQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=cortex-com.20150623.gappssmtp.com; s=20150623; h=mime-version:from:date:message-id:subject:to; bh=lgw3ZhH/V6HDelj/laYn8QeHaIkl31E4ePSqwubsTnU=; b=R7l3jOR9D2sKMSeTzN8J3rimzrEG2yVjdyFGHN//zzaqJE8vbncOVJGZaqqTtW1tky bc8o7xC72myIIqjWJxJeCB6dtwjrPl/5ghrWUgU329xCbVdcGa4vTNZNNzUAJGEvrQ3i 1adXqQrPFa16GsweiWU/R1XF1ppqJ1vALhwwGDcek+3jKkHO/j4vjgi2ueWmnI9Jt87G ZCVOcN3FqyJfBHdAMgEf403edBn57Z8L0FOmVlM5l5/l93L05vPAFM0fdnteXsqJULew a+Id+gZxYjXtd4f0yTj5f3FgaYvyoL/l2CaCohfahguF+hoSWMCqWB7CGtHVC01uapyw uRQQ==
 X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=1e100.net; s=20161025; h=x-gm-message-state:mime-version:from:date:message-id:subject:to; bh=lgw3ZhH/V6HDelj/laYn8QeHaIkl31E4ePSqwubsTnU=; b=iiUL8RWPPRHN/jNA4IIEiodoBRh8MIocin3MhimvFEnNshphJnFBzLki7NihE5ffEv uZnpisis304iKkfhV7olVd36JV3mtletVAuOjcTI0XO1E7ZCnovKXnE+CPLorZwqjBsP rK22kfxrjnSDnKsIjmEBQsrU7h+m3oE5fyBdZksey08Cdd1fG2ivn13vuH/9mywbZFhm FdsmOimMd2VSkl3iQ0PCe5JV1vZRtSzjhU/jmZRpB6P5NPw3wJJMYi1uIWsHKem6Jhmd S8p129Eyw4tueJFchWT+RN3Dz+WjT1A7+iyEe2OAAToYLivdvxVYfzhm12dvoMoEY8RV AGkA==
 X-Gm-Message-State: APjAAAX6Vn8Uy9FY0OZ8pLBfk3qzvvpGwtMylHcaOVRIjZ9P8QGuFCjK ZnbWuVRfvUcU0BXTtnp/zG7oro0GN/pyE2vVeWCQ4qnJK5pncxSfhteZkv8GeJwmjv4dYjWGlvu 35J9qaSyn8pY4U6R26LfPxgJ/dKzushk+xs4SwugHVZU=
 X-Received: by 2002:ac8:45da:: with SMTP id e26mr526208qto.75.1568895635119; Thu, 19 Sep 2019 05:20:35 -0700 (PDT)
 X-Google-Smtp-Source: APXvYqwoH4v3R6+k0hIV9bPUP7aoA8JphH9t+KMtIMoh02++Yn3Hkryg2zCbHrPXP03bs7LwUvLP5zo4oireYEyHx4I=
 X-Received: by 2002:ac8:45da:: with SMTP id e26mr526148qto.75.1568895634349; Thu, 19 Sep 2019 05:20:34 -0700 (PDT)
 Date: Sun, 17 Nov 2019 13:52:10 +0900
-From: wakamatsu@paloaltonetworks.com
+From: wakamatsu@cortex.com
 To: kshishido@cortex.com
 Subject: =?ISO-2022-JP?B?GyRCTmMkTiVEITwlayRyQXckaiReJDkbKEI=?=
-Message-Id: <20191117134744.F422.DCDD88F4@paloaltonetworks.com>
+Message-Id: <20191117134744.F422.DCDD88F4@cortex.com>
 MIME-Version: 1.0
 Content-Type: multipart/mixed; boundary="------_5DD0D0F000000000F411_MULTIPART_MIXED_"
 Content-Transfer-Encoding: 7bit
