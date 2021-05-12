@@ -5,7 +5,7 @@
 			{
 				"labels": [
 				],
-				"type": "Endpoint Risk Detection Manual - JP",
+				"type": "Endpoint Risk Detection (Manual) - JP",
 				"occurred": "2019-10-27T23:27:04.123231391Z",
 				"severity": 1,
 				"createInvestigation": true,
@@ -13,11 +13,12 @@
 				"CustomFields": {
 					"filelist": [
 						{
-							"filename": "YAMADA TAROMR 27OCT NRT.pdf.exe",
-							"filemd5": "cb7e2e8c1156efcb8624fa5f472a36bf",
-							"filesha1": "53f2dca40130f22d40afcdd91dcbe00bf5c5dd29",
-							"filesha256": "f2db5c6ef2144e0ca3a84def15e95ff20c56fabf0a79703b352e209fe3d60102",
-							"filepath": "C:\\Users\\tyamada\\AppData\\Local\\Temp\\YAMADA TAROMR 27OCT NRT.pdf.exe"
+							"name": "YAMADA TAROMR 27OCT NRT.pdf.exe",
+              "size": 1456128,
+							"md5": "cb7e2e8c1156efcb8624fa5f472a36bf",
+							"sha1": "53f2dca40130f22d40afcdd91dcbe00bf5c5dd29",
+							"sha256": "f2db5c6ef2144e0ca3a84def15e95ff20c56fabf0a79703b352e209fe3d60102",
+							"path": "C:\\Users\\tyamada\\AppData\\Local\\Temp\\YAMADA TAROMR 27OCT NRT.pdf.exe"
 						}
 					],
 					"computername": "TYAMADA-1910"
@@ -26,7 +27,7 @@
 			{
 				"labels": [
 				],
-				"type": "Endpoint Risk Detection Manual - JP",
+				"type": "Endpoint Risk Detection (Manual) - JP",
 				"occurred": "2019-10-27T23:27:04.123231391Z",
 				"severity": 1,
 				"createInvestigation": true,
@@ -34,11 +35,12 @@
 				"CustomFields": {
 					"filelist": [
 						{
-							"filename": "MARUOKA YUKOMS 27OCT NRT.pdf.exe",
-							"filemd5": "cb7e2e8c1156efcb8624fa5f472a36bf",
-							"filesha1": "53f2dca40130f22d40afcdd91dcbe00bf5c5dd29",
-							"filesha256": "f2db5c6ef2144e0ca3a84def15e95ff20c56fabf0a79703b352e209fe3d60102",
-							"filepath": "C:\\Users\\ymaruoka\\AppData\\Local\\Temp\\MARUOKA YUKOMS 27OCT NRT.pdf.exe"
+							"name": "MARUOKA YUKOMS 27OCT NRT.pdf.exe",
+              "size": 1456128,
+							"md5": "cb7e2e8c1156efcb8624fa5f472a36bf",
+							"sha1": "53f2dca40130f22d40afcdd91dcbe00bf5c5dd29",
+							"sha256": "f2db5c6ef2144e0ca3a84def15e95ff20c56fabf0a79703b352e209fe3d60102",
+							"path": "C:\\Users\\ymaruoka\\AppData\\Local\\Temp\\MARUOKA YUKOMS 27OCT NRT.pdf.exe"
 						}
 					],
 					"computername": "YMARUOKA-1822"
@@ -49,7 +51,7 @@
 			{
 				"labels": [
 				],
-				"type": "Endpoint Risk Detection Manual - JP",
+				"type": "Endpoint Risk Detection (Manual) - JP",
 				"occurred": "2019-10-27T23:27:04.123231391Z",
 				"severity": 1,
 				"createInvestigation": true,
@@ -57,11 +59,12 @@
 				"CustomFields": {
 					"filelist": [
 						{
-							"filename": "KIDA AYUMIMS 27OCT NRT.pdf.exe",
-							"filemd5": "cb7e2e8c1156efcb8624fa5f472a36bf",
-							"filesha1": "53f2dca40130f22d40afcdd91dcbe00bf5c5dd29",
-							"filesha256": "f2db5c6ef2144e0ca3a84def15e95ff20c56fabf0a79703b352e209fe3d60102",
-							"filepath": "C:\\Users\\akida\\AppData\\Local\\Temp\\KIDA AYUMIMS 27OCT NRT.pdf.exe"
+							"name": "KIDA AYUMIMS 27OCT NRT.pdf.exe",
+              "size": 1456128,
+							"md5": "cb7e2e8c1156efcb8624fa5f472a36bf",
+							"sha1": "53f2dca40130f22d40afcdd91dcbe00bf5c5dd29",
+							"sha256": "f2db5c6ef2144e0ca3a84def15e95ff20c56fabf0a79703b352e209fe3d60102",
+							"path": "C:\\Users\\akida\\AppData\\Local\\Temp\\KIDA AYUMIMS 27OCT NRT.pdf.exe"
 						}
 					],
 					"computername": "AKIDA-2850"
@@ -72,7 +75,7 @@
 			{
 				"labels": [
 				],
-				"type": "Endpoint Risk Detection Manual - JP",
+				"type": "Endpoint Risk Detection (Manual) - JP",
 				"occurred": "2019-10-27T23:27:04.123231391Z",
 				"severity": 1,
 				"createInvestigation": true,
@@ -80,11 +83,12 @@
 				"CustomFields": {
 					"filelist": [
 						{
-							"filename": "curl.exe",
-							"filemd5": "1e02a122fe09272058fc1ef0b1b6265e",
-							"filesha1": "4b0223110d11a6613fd863e9f9b10c83ef1d7b71",
-							"filesha256": "f835e15aceb0e995ead000641019aec2162f74d45c5732cee9e3c77d13fa038a",
-							"filepath": "C:\\Users\\kshishido\\AppData\\Local\\Temp\\curl.exe"
+							"name": "curl.exe",
+              "size": 386048,
+							"md5": "1e02a122fe09272058fc1ef0b1b6265e",
+							"sha1": "4b0223110d11a6613fd863e9f9b10c83ef1d7b71",
+							"sha256": "f835e15aceb0e995ead000641019aec2162f74d45c5732cee9e3c77d13fa038a",
+							"path": "C:\\Users\\kshishido\\AppData\\Local\\Temp\\curl.exe"
 						}
 					],
 					"computername": "KSHISHIDO-6092"
@@ -95,7 +99,7 @@
 			{
 				"labels": [
 				],
-				"type": "Endpoint Risk Detection Manual - JP",
+				"type": "Endpoint Risk Detection (Manual) - JP",
 				"occurred": "2019-10-27T23:27:04.123231391Z",
 				"severity": 1,
 				"createInvestigation": true,
@@ -103,11 +107,12 @@
 				"CustomFields": {
 					"filelist": [
 						{
-							"filename": "curl.exe",
-							"filemd5": "1e02a122fe09272058fc1ef0b1b6265e",
-							"filesha1": "4b0223110d11a6613fd863e9f9b10c83ef1d7b71",
-							"filesha256": "f835e15aceb0e995ead000641019aec2162f74d45c5732cee9e3c77d13fa038a",
-							"filepath": "C:\\Users\\mfuse\\AppData\\Local\\Temp\\curl.exe"
+							"name": "curl.exe",
+              "size": 386048,
+							"md5": "1e02a122fe09272058fc1ef0b1b6265e",
+							"sha1": "4b0223110d11a6613fd863e9f9b10c83ef1d7b71",
+							"sha256": "f835e15aceb0e995ead000641019aec2162f74d45c5732cee9e3c77d13fa038a",
+							"path": "C:\\Users\\mfuse\\AppData\\Local\\Temp\\curl.exe"
 						}
 					],
 					"computername": "MFUSE-8721"
@@ -128,6 +133,7 @@
 				"name": "'5 failed logins followed by successful logins' - tyamada",
 				"CustomFields": {
 					"user": "tyamada",
+					"userid": "tyamada",
 					"sourceip": "10.1.2.252",
 					"destinationip": "10.1.2.3",
 					"destinationhostname": "TYOADSRV01"

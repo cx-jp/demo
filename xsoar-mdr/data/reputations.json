@@ -171,13 +171,13 @@
     "Vendor": "Recorded Future"
   },
   {
-    "Indicator": "cortex.com",
+    "Indicator": "cortex.lan",
     "Score": 2,
     "Type": "domain",
     "Vendor": "Recorded Future"
   },
   {
-    "Indicator": "cortex.com",
+    "Indicator": "cortex.lan",
     "Score": 1,
     "Type": "domain",
     "Vendor": "AutoFocus V2"
